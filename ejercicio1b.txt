@@ -1,5 +1,5 @@
 1a
-2a
-3ac
-4c
+2ab
+3acb
+4cb
 5c
